@@ -3,10 +3,15 @@ _Creacion de una apliacion Pizzeria y Pastas "Don Marcelino" para la materia Dis
 
 
 Integrantes
+
 Katherine Lissette Sánchez Villa SV161855 
+
 Gerson Ernesto López Chévez LC151886
+
 Edwin Josué Olmedo López OL15010
+
 Melissa Estefany Viana Rodríguez VR150473
+
 Eduardo Alexander Tejada Herrador TH161111
 
 
