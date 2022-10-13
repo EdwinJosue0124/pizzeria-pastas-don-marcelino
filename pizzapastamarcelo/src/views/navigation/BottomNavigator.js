@@ -13,7 +13,7 @@ const Tab = createBottomTabNavigator();
 const BottomNavigator = () => {
   return (
     <Tab.Navigator
-      tabBarOptions={{
+      ScreenOptions={{
         style: {
           height: 55,
           borderTopWidth: 0,
@@ -25,9 +25,8 @@ const BottomNavigator = () => {
       <Tab.Screen
         name="HomeScreen"
         component={HomeScreen}
-        options={{
-          tabBarIcon: ({color}) => (
-            <Icon name="home-filled" color={color} size={28} />
+        options={{ tabBarIcon: ({color}) => (
+        <Icon name="home-filled" color={color} size={28} />
           ),
         }}
       />
