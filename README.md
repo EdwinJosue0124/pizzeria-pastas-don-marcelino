@@ -44,3 +44,6 @@ https://www.canva.com/design/DAFPEVddN6g/yur4AQet74TkpXWHoIBhsg/edit?utm_content
  * [Manual Tecnico] 
 
 
+* [Video de Funcionamiento] 
+
+
