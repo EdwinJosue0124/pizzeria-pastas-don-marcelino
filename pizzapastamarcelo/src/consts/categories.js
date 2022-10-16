@@ -1,7 +1,8 @@
+
 const categories = [
-    {id: '1', name: 'pizza', image: require('../assets/catergories/pizza.png')},
-    {id: '2', name: 'Hamburgueza', image: require('../assets/catergories/pasta.png')},
-   
-  ];
+  {id: '1', name: 'Pizza', image: require('../assets/categories/pizza.png')},
+  {id: '2', name: 'Pasta', image: require('../assets/categories/pasta.png')},
   
-  export default categories;
+];
+
+export default categories;

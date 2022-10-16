@@ -46,11 +46,11 @@ const BottomNavigator = () => {
           tabBarIcon: ({color}) => (
             <View
               style={{
-                height: 60,
+                height: 50,
                 width: 60,
                 justifyContent: 'center',
                 alignItems: 'center',
-                backgroundColor: COLORS.white,
+                backgroundColor: COLORS.while,
                 borderColor: COLORS.primary,
                 borderWidth: 2,
                 borderRadius: 30,
