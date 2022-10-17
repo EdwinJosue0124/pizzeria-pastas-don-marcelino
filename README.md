@@ -41,10 +41,10 @@ https://www.canva.com/design/DAFPEVddN6g/yur4AQet74TkpXWHoIBhsg/edit?utm_content
  * [Manual de Usuario] 
  https://drive.google.com/file/d/1w1u5ALAsTlAKYyNeAbFTsQalkEu9H8g9/view?usp=sharing
 
-
  * [Manual Tecnico] 
- https://drive.google.com/file/d/17ukMu_cXw7a4-NNt8jZKk04UXYmGwnOK/view?usp=sharing
+ https://drive.google.com/file/d/1tDIO7uaIwyrRPTjhnm4sCULBLPXPPxca/view?usp=sharing
 
 * [Video de Funcionamiento] 
+https://drive.google.com/file/d/1w5jmoYn_Nj88qEUi6fIK66j4UnEG-fyi/view?usp=sharing
 
 
