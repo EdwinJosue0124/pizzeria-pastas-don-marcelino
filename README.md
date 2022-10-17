@@ -39,10 +39,11 @@ https://opaque-megaraptor-69b.notion.site/DPS-Proyecto-de-Catedra-b152d78aa66947
 https://www.canva.com/design/DAFPEVddN6g/yur4AQet74TkpXWHoIBhsg/edit?utm_content=DAFPEVddN6g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
  * [Manual de Usuario] 
+ https://drive.google.com/file/d/1w1u5ALAsTlAKYyNeAbFTsQalkEu9H8g9/view?usp=sharing
 
 
  * [Manual Tecnico] 
-
+ https://drive.google.com/file/d/17ukMu_cXw7a4-NNt8jZKk04UXYmGwnOK/view?usp=sharing
 
 * [Video de Funcionamiento] 
 
