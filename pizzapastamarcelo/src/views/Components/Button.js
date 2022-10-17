@@ -14,7 +14,7 @@ const PrimaryButton = ({title, onPress = () => {}}) => {
 const SecondaryButton = ({title, onPress = () => {}}) => {
   return (
     <TouchableOpacity activeOpacity={0.8} onPress={onPress}>
-      <View style={{...style.btnContainer, backgroundColor: COLORS.white}}>
+      <View style={{...style.btnContainer, backgroundColor: COLORS.while}}>
         <Text style={{...style.title, color: COLORS.primary}}>{title}</Text>
       </View>
     </TouchableOpacity>
@@ -22,7 +22,7 @@ const SecondaryButton = ({title, onPress = () => {}}) => {
 };
 
 const style = StyleSheet.create({
-  title: {color: COLORS.white, fontWeight: 'bold', fontSize: 18},
+  title: {color: COLORS.while, fontWeight: 'bold', fontSize: 18},
   btnContainer: {
     backgroundColor: COLORS.primary,
     height: 60,

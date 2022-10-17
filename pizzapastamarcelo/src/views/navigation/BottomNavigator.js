@@ -13,7 +13,7 @@ const Tab = createBottomTabNavigator();
 const BottomNavigator = () => {
   return (
     <Tab.Navigator
-      tabBarOptions={{
+      ScreenOptions={{
         style: {
           height: 55,
           borderTopWidth: 0,
@@ -25,9 +25,8 @@ const BottomNavigator = () => {
       <Tab.Screen
         name="HomeScreen"
         component={HomeScreen}
-        options={{
-          tabBarIcon: ({color}) => (
-            <Icon name="home-filled" color={color} size={28} />
+        options={{ tabBarIcon: ({color}) => (
+        <Icon name="home-filled" color={color} size={28} />
           ),
         }}
       />
@@ -47,11 +46,11 @@ const BottomNavigator = () => {
           tabBarIcon: ({color}) => (
             <View
               style={{
-                height: 60,
+                height: 50,
                 width: 60,
                 justifyContent: 'center',
                 alignItems: 'center',
-                backgroundColor: COLORS.white,
+                backgroundColor: COLORS.while,
                 borderColor: COLORS.primary,
                 borderWidth: 2,
                 borderRadius: 30,
