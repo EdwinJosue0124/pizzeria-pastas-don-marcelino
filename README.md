@@ -36,23 +36,33 @@ Antes de comenzar, asegurese de tener instaldo:
 ##  Dependencias 📚 
 
  yarn add native-base
+ 
  expo install react-native-safe-area-context
+ 
  expo install react-native-svg
+ 
  Expo  install @react-navigation/native
+ 
  Expo install  @react-navigation/bottom-tabs
+ 
  Expo install @react-navigation/native-stack
+ 
  Expo install react-dom
+ 
  Expo install react-native-numeric-input
+ 
  Expo install react-native-pager-view
+ 
  Expo install react-native-screens
+ 
  Expo install react-native-swipe-list-view
+ 
  Expo install react-native-tab-view
+ 
  Expo install react-native-web
+ 
  Expo install react-native-base
-
-
-
-
+ 
 ## Licencia 📄
 
 Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
