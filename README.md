@@ -19,7 +19,7 @@ Melissa Estefany Viana Rodríguez VR150473
 
 Eduardo Alexander Tejada Herrador TH161111
 
-Guia de Instalación 💻
+##  Guia de Instalación 💻
 Antes de comenzar, asegurese de tener instaldo:
 
 •	Android Studio (v4.1.3)
@@ -33,7 +33,7 @@ Antes de comenzar, asegurese de tener instaldo:
 4.	Una vez este conectado al repositorio y haya creado su rama, puede comenzar a colaborar desde su equipo local, para lo que será necesario abrir el proyecto desde su Android Studio.
 5.	Realice las modificaciones necesarias y ejecute los comandos: git add -A para agregar los cambios, git commit -m "comentario" y finalmente git push -u origin SuRama para agregar los cambios al repositorio remoto.
 
-Dependencias 📚 
+##  Dependencias 📚 
 
  yarn add native-base
  expo install react-native-safe-area-context
