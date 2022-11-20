@@ -1,25 +1,33 @@
-//import 'react-native-gesture-handle';
-import React from 'react';
-import { NativeAppEventEmitter, StatusBar } from 'react-native';
-import {NavigationContainer} from '@react-navigation/native';
-import{createNativeStackNavigator} from '@react-navigation/native-stack';
-import COLORS from './src/consts/colors';
-import DetailsScreen from './src/views/screens/DetailsScreen';
-import BottomNavigator from './src/views/navigation/BottomNavigator';
-import OnBoardScreen from './src/views/screens/OnBoardScreen';
+import { NavigationContainer } from "@react-navigation/native";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import { NativeBaseProvider, StatusBar } from "native-base";
+import LoginScreen from "./src/data/Screens/LoginScreen";
+import RegisterScreen from "./src/data/Screens/RegisterScreen";
+import OrderScreen from "./src/data/Screens/OrderScreen";
+import BottomNav from "./src/Navigations/BottomNav";
 
 const Stack = createNativeStackNavigator();
 
-const App =()=>{
-  return(
-    <NavigationContainer>
-    <StatusBar backgroundColor={COLORS.white} barStyle="dark-content"/>
-    <Stack.Navigator initialRouteName="BoardScreen" screenOptions={{headerShown:false}} >
-      <Stack.Screen name="BoardScreen" component={OnBoardScreen}/>
-      <Stack.Screen name="Home" component={BottomNavigator}/>
-      <Stack.Screen name="DetailsScreen" component={DetailsScreen}/>
-    </Stack.Navigator>
-  </NavigationContainer>
-  )
-};
-export default App;
+export default function App() {
+  return (
+    <NativeBaseProvider>
+      <NavigationContainer>
+          <StatusBar hidden={true} />
+          <Stack.Navigator 
+            initialRouteName='Login'
+            screenOptions={{
+              headerShown: false,
+            }}
+       >
+        <Stack.Screen name="Login" component={LoginScreen}/>
+        <Stack.Screen name="Register" component={RegisterScreen}
+        />
+        <Stack.Screen name="Order" component={OrderScreen}/>
+        <Stack.Screen name="Bottom" component={BottomNav}/>
+       </Stack.Navigator>
+      </NavigationContainer>
+    </NativeBaseProvider>
+
+  );
+}
+
