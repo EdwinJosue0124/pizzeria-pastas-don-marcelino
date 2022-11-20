@@ -10,7 +10,7 @@ _Aplicacion para la compra de pizzas y pastas de el local famoso de DonMarcelino
 * [Android Studio] https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQjwppSEBhCGARIsANIs4p4EyyCZX7TunXEly893f1rdPBxQZQxE0e-v119AxRyg1cffFvvUY2EaAjJsEALw_wcB&gclsrc=aw.ds - IDE de desarrollo
 * [ReactNative] https://github.com/auth0/react-native-auth0- Lenguaje de programación utilizado para la creación
 * [Visual Studio Code]
-* []
+
 
 ## Autores ✒️
 
@@ -89,12 +89,10 @@ https://opaque-megaraptor-69b.notion.site/DPS-Proyecto-de-Catedra-b152d78aa66947
 https://www.canva.com/design/DAFPEVddN6g/yur4AQet74TkpXWHoIBhsg/edit?utm_content=DAFPEVddN6g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
  * [Manual de Usuario] 
- https://drive.google.com/file/d/1w1u5ALAsTlAKYyNeAbFTsQalkEu9H8g9/view?usp=sharing
+https://drive.google.com/file/d/16EpJDrzoVGObF4MJ13Vnwq_Ndxf-UEhQ/view?usp=sharing
 
  * [Manual Tecnico] 
- https://drive.google.com/file/d/1tDIO7uaIwyrRPTjhnm4sCULBLPXPPxca/view?usp=sharing
+https://drive.google.com/file/d/1BE8C4uCW_pzC7o5GKpW2-eF6AX2dqke3/view?usp=sharing
 
-* [Video de Funcionamiento] 
-https://drive.google.com/file/d/1w5jmoYn_Nj88qEUi6fIK66j4UnEG-fyi/view?usp=sharing
 
 
