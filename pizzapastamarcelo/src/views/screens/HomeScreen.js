@@ -76,9 +76,7 @@ const HomeScreen = ({navigation}) => {
           <View
             style={{ marginTop: 10,marginHorizontal: 20,flexDirection: 'row',justifyContent: 'space-between',}}>
               <Text style={{fontSize:18, fontWeight:'bold'}}>$ {food.precio}</Text>
-              <View style={style.addToCartBtn}>
-                <Icon name="add" size={20} color={COLORS.while}/>
-              </View>
+              
             </View>
       </View>
       </TouchableHighlight>
